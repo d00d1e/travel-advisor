@@ -1,6 +1,6 @@
 import React from "react";
 
-import "./List.css";
+import "./styles.js";
 
 export default function List() {
   return (
