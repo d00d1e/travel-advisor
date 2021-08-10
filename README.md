@@ -2,4 +2,7 @@
 - @material-ui/icons
 - @material-ui/lab
 - @react-google-maps/api
-- google-map-react
+
+- rapidAPIs
+  - google-map-react
+  - snazy maps
